@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Fala, eu sou o Murillo
 
-<!--
-**murilloceratti/murilloceratti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Ciência da Computação  (Início: 02/2026)
+🚀 Focado em Python e sistemas backend  
+🛠️ Desenvolvendo projetos próprios com foco em aprendizado prático e evolução constante
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias
+- Python
+- JSON
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos atuais
+- 💰 Sistema Bancário em Python
+- 🎰 Cassino em Terminal
+
+## 📫 Contato
+- Email: murilloceratti7@gmail.com
