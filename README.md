@@ -2,7 +2,7 @@
 
 💻 Estudante de Ciência da Computação (início em 02/2026)  
 🚀 Focado em desenvolvimento backend com Python  
-🧠 Construindo projetos próprios para evoluir na prática
+🧠 Construindo projetos próprios e buscando conhecimento
 
 ---
 
