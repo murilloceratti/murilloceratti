@@ -14,7 +14,7 @@
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projetos
 
 - 💰 Sistema Bancário em Python  
 - 🎰 Cassino em Terminal  
