@@ -1,8 +1,7 @@
-# 👋 Fala, eu sou o Murillo
+# 👋 Eu sou o Murillo
 
 💻 Estudante de Ciência da Computação (início em 02/2026)  
 🚀 Focado em desenvolvimento backend com Python  
-🧠 Construindo projetos próprios e buscando conhecimento
 
 ---
 
@@ -15,16 +14,16 @@
 
 ## 📌 Projetos
 
-- 💰 Sistema Bancário em Python  
-- 🎰 Cassino em Terminal  
+💰 Sistema Bancário em Python  
+🎰 Cassino em Terminal  
 
 ---
 
 ## 🧠 Atualmente aprendendo
 
-- Estruturação de sistemas maiores  
-- Manipulação de dados com JSON  
-- Boas práticas de organização de código  
+Estruturação de sistemas maiores  
+Manipulação de dados com JSON  
+Boas práticas de organização de código  
 
 ---
 
