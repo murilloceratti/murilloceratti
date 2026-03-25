@@ -14,7 +14,7 @@
 
 ## 📌 Projetos
 
-💰 Sistema Bancário 
+💰 Sistema Bancário  
 🎰 Cassino  
 ☎️ Agenda Telefõnica
 
