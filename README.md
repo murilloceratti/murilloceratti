@@ -14,8 +14,9 @@
 
 ## 📌 Projetos
 
-💰 Sistema Bancário em Python  
+💰 Sistema Bancário Simles  
 🎰 Cassino em Terminal  
+☎️ Agenda Telefõnica
 
 ---
 
