@@ -14,8 +14,8 @@
 
 ## 📌 Projetos
 
-💰 Sistema Bancário Simles  
-🎰 Cassino em Terminal  
+💰 Sistema Bancário 
+🎰 Cassino  
 ☎️ Agenda Telefõnica
 
 ---
