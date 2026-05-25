@@ -1,4 +1,4 @@
-💻 Estudante de Ciência da Computação (início em 02/2026)  
+## 💻 Estudante de Ciência da Computação (início em 02/2026)  
 
 ---
 
