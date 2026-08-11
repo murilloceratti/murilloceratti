@@ -1,6 +1,6 @@
 ## 💻 Estudante de Ciência da Computação (início em 02/2026)
 
-# Foco atual em backend, banco de dados e boas práticas de segurança.
+### Foco atual em backend, banco de dados e boas práticas de segurança.
 
 ---
 
