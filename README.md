@@ -1,6 +1,6 @@
 ## 💻 Estudante de Ciência da Computação (início em 02/2026)
 
-Foco atual em backend, banco de dados e boas práticas de segurança.
+# Foco atual em backend, banco de dados e boas práticas de segurança.
 
 ---
 
@@ -16,7 +16,7 @@ Foco atual em backend, banco de dados e boas práticas de segurança.
 
 ## 🚀 Projeto em destaque
 
-**[Sistema Bancário PostgreSQL](https://github.com/murilloceratti/sistema-bancario-postgresql)** — sistema bancário via terminal em Python, com autenticação segura (Argon2), persistência em PostgreSQL e painel administrativo.
+**[Sistema Bancário PostgreSQL](https://github.com/murilloceratti/sistema-bancario-postgresql)** - sistema bancário via terminal em Python, com autenticação segura (Argon2), persistência em PostgreSQL e painel administrativo.
 
 ---
 
